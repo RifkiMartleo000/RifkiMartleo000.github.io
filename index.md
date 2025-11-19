@@ -29,9 +29,10 @@
     <li>Top 6 - Dashboard Analysis | Gelarrasa UPNVJT 2024</li>
     <li>Top 7 - Sebelas Maret Statistics Infographic Competition (SSIC) | SSF UNS 2024</li>
   </ul>
-  
-  <p>Selamat datang di website portofolio saya.</p>
 
+  <h2>Experience</h2>
+  <h4>Research Assistant - Time Series Analysis</h4>
+  
   <h2>Proyek</h2>
   <p>Selamat datang di website portofolio saya.</p>
   
