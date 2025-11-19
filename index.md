@@ -30,7 +30,24 @@
   </ul>
 
   <h2>Experience</h2>
-  <h4>Research Assistant - Time Series Analysis</h4>
+  <h3>Assistant Lecturer - Database Practical</h3>
+  <ul>
+    <li>Supervise exam activities in a class of 33 students to maintain the conduciveness of activities during the exam.</li>
+  </ul>
+  <h3>International Conference Website Developer</h3>
+  <ul>
+    <li>Contributed to designing the website structure containing more than 10 main pages, including Call for Paper, Submission, Keynote Speakers, Registration, and Schedule.</li>
+    <li>Menjalin kerja sama bersama 4 panitia inti untuk mengintegrasikan kebutuhan acara ke dalam website.</li>
+    <li>Menjalin kerja sama bersama 4 panitia inti untuk mengintegrasikan kebutuhan acara ke dalam website.</li>
+    <li>Top 6 - University Infographic Competition (UIC) | Rasio 9.0 Unpad 2025</li>
+  </ul>
+  <h3>Research Assistant - Time Series Analysis</h3>
+  <ul>
+    <li>🥈2nd Place - Statistics Infographic Competition (SIC) | Satria Data 2025</li>
+    <li>Finalist - Airlangga Statistics Infographic Competition (ASIC) | Arsen Unair 2025</li>
+    <li>Top 6 - University Infographic Competition (UIC) | Rasio 9.0 Unpad 2025</li>
+  </ul>
+  <h3>Statistics Website Developer</h3>
   
   <h2>Proyek</h2>
   <p>Selamat datang di website portofolio saya.</p>
